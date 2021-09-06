@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fishis
+- 👀 I’m a beginner coder
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me discord: Fishistick#7444
